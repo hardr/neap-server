@@ -1,7 +1,3 @@
-# Token-Based Authentication with Node
+# NEAP SERVER-SIDE
 
-## Getting Started
-
-1. Fork/Clone
-1. Install dependencies
-1. `gulp`
+#This is the server-side
